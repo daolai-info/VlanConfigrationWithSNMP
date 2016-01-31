@@ -1,5 +1,5 @@
 # VlanConfigrationWithSNMP
-The library, implemented based on SNMP (Simple Network Management Protocol), and can be used for dynamic VLAN configuration of Netgear L2 switch by combining with other network control logic programs.
+The library, implemented based on SNMP (Simple Network Management Protocol) and Java program language, can be used for dynamic VLAN configuration of Netgear L2 switch by combining with other network control logic programs.
 
 The usage is as following
   1. Collect VLAN mac addresses of physical ports of Netgear switch by SNMP commands. And then, update ./config/<Switch Management IP Address >.properties
