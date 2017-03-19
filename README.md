@@ -10,4 +10,6 @@ The example was based on NetgearGSM7328 switch property data.
 
 
 [1]. VLAN(Virtual Local Area Network): https://en.wikipedia.org/wiki/Virtual_LAN.
+
+
 [2]. SNMP(Simple Network Management Protocol): https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol. 
